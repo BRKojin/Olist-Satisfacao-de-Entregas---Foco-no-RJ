@@ -1,0 +1,8 @@
+# dataset bruto do Olist
+dados/csv/
+*.csv
+
+# sistema/editor
+.DS_Store
+*.log
+.vscode/
